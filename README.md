@@ -7,7 +7,7 @@
 
 [**SearXNG instances**](https://searx.space/) - you can use other instances of the SearXNG search engine (for this you will need to fork the repository and replace the link for the search query in `manifest.json`).
 
-This version uses an [**brazillian instance**](https://searx.brennoflavio.com.br/) made by [**Brenno Flavio.**](https://brennoflavio.com.br/)
+This version uses an [**brazilian instance**](https://searx.brennoflavio.com.br/) made by [**Brenno Flavio.**](https://brennoflavio.com.br/)
 
 # How does it work?
 Extension use `manifest.json` settings which change your main search engine.
